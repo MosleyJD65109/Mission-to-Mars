@@ -21,10 +21,6 @@ Build a Web Application that Scrapes Various Websites for Data Related to the Mi
 * Make sure to find the image URL to the full size `.jpg` image
 * Make sure to save a complete URL string for this image
 
-#### Mars Weather
-
-* Visit the Mars Weather Twitter account and scrape the latest Mars Weather Tweet from the page
-    * Save the Tweet text for the weather report as a variable called `mars_weather`
 
 #### Mars Facts
 
