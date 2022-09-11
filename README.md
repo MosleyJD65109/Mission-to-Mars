@@ -29,7 +29,7 @@ Build a Web Application that Scrapes Various Websites for Data Related to the Mi
 
 #### Mars Hemispheres
 
-* Visit the USGS Astrogeology site to obtain high resolution images for each of Mar's hemispheres
+* Visit NASA's website to obtain high resolution images for each of Mar's hemispheres
 * Save both the image URL string for the full resolution hemisphere image, and the Hemisphere title containing the hemisphere name. 
     * Use a Python dictionary to store the data using the keys `img_url` and `title`
 * Append the dictionary with the image URL string and the hemisphere title to a list
